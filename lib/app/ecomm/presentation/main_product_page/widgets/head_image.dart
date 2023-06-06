@@ -1,5 +1,5 @@
-import 'package:ecom_ui/app/presentation/main_product_page/widgets/carousel_image.dart';
-import 'package:ecom_ui/app/presentation/presentation_system/app_colors.dart';
+import 'package:ecom_ui/app/ecomm/presentation/main_product_page/widgets/carousel_image.dart';
+import 'package:ecom_ui/app/ecomm/presentation/presentation_system/app_colors.dart';
 import 'package:flutter/material.dart';
 
 class HeadImage extends StatefulWidget {

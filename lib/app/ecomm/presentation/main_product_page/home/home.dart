@@ -1,4 +1,4 @@
-import 'package:ecom_ui/app/data/models/product.dart';
+import 'package:ecom_ui/app/ecomm/models/product.dart';
 import 'package:sticky_headers/sticky_headers.dart';
 import 'package:flutter/material.dart';
 

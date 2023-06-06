@@ -1,21 +1,22 @@
-import 'package:ecom_ui/app/presentation/main_product_page/home/home.dart';
+import 'package:ecom_ui/app/ecomm/presentation/main_product_page/home/home.dart';
 import 'package:flutter/material.dart';
 import 'package:iconsax/iconsax.dart';
 
-class MainTabView extends StatefulWidget {
-  const MainTabView({super.key});
+class CommerceMain extends StatefulWidget {
+  const CommerceMain({super.key});
 
   @override
-  State<MainTabView> createState() => _MainTabViewState();
+  State<CommerceMain> createState() => _CommerceMainState();
 }
 
-class _MainTabViewState extends State<MainTabView> {
+class _CommerceMainState extends State<CommerceMain> {
   @override
   Widget build(BuildContext context) {
     return DefaultTabController(
       length: 4,
       child: Scaffold(
         body: const TabBarView(
+          physics: NeverScrollableScrollPhysics(),
           children: [
             Home(),
             Icon(Icons.directions_transit),

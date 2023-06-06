@@ -1,5 +1,5 @@
-import 'package:ecom_ui/app/data/models/product.dart';
-import 'package:ecom_ui/app/presentation/product_details_page/product_details_view.dart';
+import 'package:ecom_ui/app/ecomm/models/product.dart';
+import 'package:ecom_ui/app/ecomm/presentation/product_details_page/product_details_view.dart';
 import 'package:flutter/material.dart';
 import 'package:iconsax/iconsax.dart';
 

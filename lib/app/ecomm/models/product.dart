@@ -1,4 +1,4 @@
-import 'package:ecom_ui/app/presentation/presentation_system/app_images.dart';
+import 'package:ecom_ui/app/ecomm/presentation/presentation_system/app_images.dart';
 
 class Product {
   String category;

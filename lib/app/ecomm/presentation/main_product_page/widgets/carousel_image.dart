@@ -1,4 +1,4 @@
-import 'package:ecom_ui/app/presentation/presentation_system/app_images.dart';
+import 'package:ecom_ui/app/ecomm/presentation/presentation_system/app_images.dart';
 import 'package:flutter/material.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 

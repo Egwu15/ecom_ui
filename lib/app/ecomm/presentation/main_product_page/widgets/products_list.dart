@@ -1,7 +1,7 @@
-import 'package:ecom_ui/app/presentation/main_product_page/widgets/product_card.dart';
+import 'package:ecom_ui/app/ecomm/presentation/main_product_page/widgets/product_card.dart';
 import 'package:flutter/material.dart';
 
-import '../../../data/models/product.dart';
+import '../../../models/product.dart';
 
 class ProductList extends StatelessWidget {
   const ProductList({

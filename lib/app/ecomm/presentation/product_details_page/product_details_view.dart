@@ -1,8 +1,8 @@
-import 'package:ecom_ui/app/presentation/product_details_page/widgets/details_footer.dart';
-import 'package:ecom_ui/app/presentation/product_details_page/widgets/head_image.dart';
-import 'package:ecom_ui/app/presentation/product_details_page/widgets/product_details_appbar.dart';
-import 'package:ecom_ui/app/presentation/product_details_page/widgets/product_title_section.dart';
-import 'package:ecom_ui/app/presentation/product_details_page/widgets/tab_view.dart';
+import 'package:ecom_ui/app/ecomm/presentation/product_details_page/widgets/details_footer.dart';
+import 'package:ecom_ui/app/ecomm/presentation/product_details_page/widgets/head_image.dart';
+import 'package:ecom_ui/app/ecomm/presentation/product_details_page/widgets/product_details_appbar.dart';
+import 'package:ecom_ui/app/ecomm/presentation/product_details_page/widgets/product_title_section.dart';
+import 'package:ecom_ui/app/ecomm/presentation/product_details_page/widgets/tab_view.dart';
 import 'package:flutter/material.dart';
 
 class ProductDetailsView extends StatelessWidget {
